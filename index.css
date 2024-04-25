@@ -37,7 +37,7 @@ a {
   color: #5f9341;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 400px) {
   input {
     width: 90%;
   }
