@@ -37,8 +37,10 @@ a {
   color: #5f9341;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   input {
     width: 90%;
+    margin: 0 auto;
+    padding: 10px;
   }
 }
